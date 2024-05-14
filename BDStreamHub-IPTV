@@ -23,9 +23,10 @@ http://starshare.live:8080/live/35858547/86368536/2494.ts
 http://starshare.live:8080/live/35858547/86368536/304278.ts
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
-http://starshare.live:8080/live/35858547/86368536/304296.ts
+http://starshare.live:8080/live/35858547/86368536/304296.m3u8
 
-
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
+https://allinonereborn.tech/dhoom.php?id=6736
 
 
 #EXTINF:-1 group-title="Notice" tvg-logo="https://i.imgur.com/n3r7sEr.jpg",Notice
