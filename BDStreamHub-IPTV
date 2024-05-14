@@ -10,27 +10,119 @@ window.location.href="https://t.me/bdstreamhub";
 </noscript>
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG FHD
 http://starshare.live:8080/live/35858547/86368536/18452.ts
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG HD
 http://starshare.live:8080/live/35858547/86368536/130714.ts
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live Toffee 
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
 http://starshare.live:8080/live/35858547/86368536/304279.ts
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
 http://starshare.live:8080/live/35858547/86368536/2494.ts
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live HINDI
 http://starshare.live:8080/live/35858547/86368536/304278.ts
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
 http://starshare.live:8080/live/35858547/86368536/304296.m3u8
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
 https://allinonereborn.tech/dhoom.php?id=6736
+
+
+
+#EXTINF:-1 tvg-id="us_espnnews.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ESPN News FHD 
+https://allinonereborn.tech/dhoom.php?id=6735
+#EXTINF:-1 tvg-id="us_espn.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ESPN USA FHD 
+https://allinonereborn.tech/dhoom.php?id=768
+#EXTINF:-1 tvg-id="us_beinsportslaliga.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_BEIN SPORTS LA LIGA ENG HD 
+https://allinonereborn.tech/dhoom.php?id=6736
+#EXTINF:-1 tvg-id="uka_laligatv.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",LaLiGa TV FHD 
+https://allinonereborn.tech/dhoom.php?id=6739
+#EXTINF:-1 tvg-id="us_espnu.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ESPN U HD 
+https://allinonereborn.tech/dhoom.php?id=10750
+#EXTINF:-1 tvg-id="us_espn2.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ ESPN 2 FHD 
+https://allinonereborn.tech/dhoom.php?id=10751
+#EXTINF:-1 tvg-id="us_espn2.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ESPN 2 HD 
+https://allinonereborn.tech/dhoom.php?id=10752
+#EXTINF:-1 tvg-id="us_elevensports.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ELEVEN SPORTS FHD 
+https://allinonereborn.tech/dhoom.php?id=6741
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ELEVEN SPORT HD 
+https://allinonereborn.tech/dhoom.php?id=6742
+#EXTINF:-1 tvg-id="us_cbssportsnetworkusa.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_CBS Sports Network FHD 
+https://allinonereborn.tech/dhoom.php?id=766
+#EXTINF:-1 tvg-id="us_cbssportsnetworkusa.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_CBS SPORTS NETWORK HD 
+https://allinonereborn.tech/dhoom.php?id=6743
+#EXTINF:-1 tvg-id="us_espndeportes.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US_ESPN Deporte 4K 
+https://allinonereborn.tech/dhoom.php?id=772
+#EXTINF:-1 tvg-id="us_bigtennetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: Big Ten Network FHD 
+https://allinonereborn.tech/dhoom.php?id=10754
+#EXTINF:-1 tvg-id="us_bigtennetwork.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: Big Ten Network  FHD 
+https://allinonereborn.tech/dhoom.php?id=10753
+#EXTINF:-1 tvg-id="us_foxsoccerplus.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: FOX Soccer Plus FHD 
+https://allinonereborn.tech/dhoom.php?id=10755
+#EXTINF:-1 tvg-id="us_foxsports1.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US:Fox Sports 1 FHD 
+https://allinonereborn.tech/dhoom.php?id=774
+#EXTINF:-1 tvg-id="us_foxsports1.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US:Fox Sports 1 HD 
+https://allinonereborn.tech/dhoom.php?id=11021
+#EXTINF:-1 tvg-id="us_foxsports2.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: Fox Sports 2 FHD 
+https://allinonereborn.tech/dhoom.php?id=11023
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: FOX SPORTS Yes Network 4K 
+https://allinonereborn.tech/dhoom.php?id=11024
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",24/7:  (PATHAN 2023) _4k 
+https://allinonereborn.tech/dhoom.php?id=11362
+#EXTINF:-1 tvg-id="us_wwe.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",WWE FHD 
+https://allinonereborn.tech/dhoom.php?id=10055
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",24/7 BHOOT POLICE 
+https://allinonereborn.tech/dhoom.php?id=10654
+#EXTINF:-1 tvg-id="us_tennischannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US:Tennis Channel FHD 
+https://allinonereborn.tech/dhoom.php?id=6751
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: NFL CHANNEL _FHD 
+https://allinonereborn.tech/dhoom.php?id=5465
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: NBC GOLF HD 
+https://allinonereborn.tech/dhoom.php?id=6754
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: NBC GOLF_FHD 
+https://allinonereborn.tech/dhoom.php?id=6752
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS USA",US: NBC GOLF SD 
+https://allinonereborn.tech/dhoom.php?id=2907
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",24/7: VIEWERS  CHOICE  *( Shehzada)* 
+https://allinonereborn.tech/dhoom.php?id=11415
+#EXTINF:-1 tvg-id="uka_skysportsnews.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS UK",SKY SPORTS NEWS 4K 
+https://allinonereborn.tech/dhoom.php?id=8352
+#EXTINF:-1 tvg-id="uka_skysportsnews.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS UK",SKY SPORTS NEWS FHD 
+https://allinonereborn.tech/dhoom.php?id=7355
+#EXTINF:-1 tvg-id="uka_laligatv.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="VIP SPORTS UK",LALIGA TV 4K 
+https://allinonereborn.tech/dhoom.php?id=7354
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="KIDS",BABY RHYMES 
+https://allinonereborn.tech/dhoom.php?id=9622
+#EXTINF:-1 tvg-id="in_cnbcawaaz.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/91.jpg" group-title="IND BUSINESS NEWS & INT",IN: CNBC AWAAZ NEWS _HD  (S) 
+https://allinonereborn.tech/dhoom.php?id=10453
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4659.jpg" group-title="IND BUSINESS NEWS & INT",IN: ZEE BUSINESS _HD 
+https://allinonereborn.tech/dhoom.php?id=8564
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4805.png" group-title="INDIAN NEWS",IN: ABP NEWS _HD (S) 
+https://allinonereborn.tech/dhoom.php?id=10737
+#EXTINF:-1 tvg-id="in_abpnews.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/88.png" group-title="INDIAN NEWS",IN: ABP NEWS _ HD (S) 
+https://allinonereborn.tech/dhoom.php?id=10738
+#EXTINF:-1 tvg-id="in_indiatoday.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1252.jpg" group-title="INDIAN NEWS",IN: INDIA TODAY _HD  (S) 
+https://allinonereborn.tech/dhoom.php?id=10735
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4804.png" group-title="INDIAN NEWS",IN: INDIA TODAY _ HD  (S) 
+https://allinonereborn.tech/dhoom.php?id=10736
+#EXTINF:-1 tvg-id="in_zeenews.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/89.png" group-title="INDIAN NEWS",IN: ZEE NEWS_HD  (S) 
+https://allinonereborn.tech/dhoom.php?id=10593
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2873.jpg" group-title="INDIAN NEWS",IN: ZEE NEWS_ HD  (S) 
+https://allinonereborn.tech/dhoom.php?id=10594
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2874.jpg" group-title="INDIAN NEWS",IN: AAJ TAK NEWS _HD (S) 
+https://allinonereborn.tech/dhoom.php?id=10621
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4364.jpg" group-title="INDIAN NEWS",IN: AAJ TAK NEWS _ HD (S) 
+https://allinonereborn.tech/dhoom.php?id=8166
+#EXTINF:-1 tvg-id="in_starsports1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CRICKET",TEN SPORTS CRICKET  HD 
+https://allinonereborn.tech/dhoom.php?id=11216
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CRICKET",ASTRO CRICKET HD 
+https://allinonereborn.tech/dhoom.php?id=10661
+#EXTINF:-1 tvg-id="uka_skysportscricket.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CRICKET",SKY SPORTS CRICKET_SD 
+https://allinonereborn.tech/dhoom.php?id=11337
+#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CRICKET",AFG Vs SRI RTA SPORTS HD 
+https://allinonereborn.tech/dhoom.php?id=11387
+#EXTINF:-1 tvg-id="uka_skysportscricket.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="CRICKET",SKY SPORTS CRICKET SD 
+https://allinonereborn.tech/dhoom.php?id=11122
+
+
 
 
 #EXTINF:-1 group-title="Notice" tvg-logo="https://i.imgur.com/n3r7sEr.jpg",Notice
